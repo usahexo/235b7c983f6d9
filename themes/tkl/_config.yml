@@ -48,8 +48,13 @@ timeline:
 - num: 4
   word: More
 
-#Links | footlinks
+#links | footlinks
 footlinks:
+- name: 우리카지노
+  link: https://septcasino.com/
+- name: 카지노사이트
+  link: https://choegocasino.com/
+
 #- name: Kieran
 #  link: http://go.kieran.top/
 #- name: Name
